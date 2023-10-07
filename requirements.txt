@@ -1,6 +1,6 @@
 python-decouple
 telethon
-ethon==1.38 #for VC
+ethon==0.1.5 #for VC
 cryptg
 pymongo
 motor
